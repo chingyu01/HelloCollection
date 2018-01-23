@@ -10,6 +10,30 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    @IBAction func switchMode(_ sender: UISegmentedControl) {
+        
+//        switch sender.selectedSegmentIndex{
+//
+//        case 0
+////            列表
+//
+//            break
+//
+//        case 1
+//            
+//            break
+//
+//        case 2
+//
+//            break
+//
+//        case 3
+//
+//            break
+//        }
+    }
+    
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
